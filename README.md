@@ -4,7 +4,7 @@ Hi, I am Adil - I am developing client-service applications. I like to experimen
 
 ## Tech Stack
 
-* 💻 C# | .Net Core | Vus.js 
+* 💻 C# | .Net Core | Vue.js 
 * 🛢️ SQL | PostgresSQL | EntityFramework | Dapper
 * ☁ Docker, Microservice
 * 🎮 Unity
